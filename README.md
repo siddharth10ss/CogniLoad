@@ -3,7 +3,7 @@
 > **"Stop counting tasks. Start tracking cognitive load."**  
 > *Winner/Submission for [Hackathon Name]*
 
-![CogniLoad Hero](https://via.placeholder.com/1200x600?text=CogniLoad+Hero+Image+Here) 
+![CogniLoad Hero](assets/thumbnail.png) 
 *(Replace with your Whisk/AI generated thumbnail!)*
 
 ---
